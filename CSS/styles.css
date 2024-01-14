@@ -1,0 +1,40 @@
+.hello1 {
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: red; */
+    border: 2px solid red;
+
+    /* margin-top: 50px;
+    margin-right: 35px;
+    margin-bottom: 50px;
+    margin-left: 35px; */
+    margin: 50px 35px;
+}
+.hello2 {
+    /* border-width: 2px;
+    border-style: dotted;
+    border-color: blue; */
+    border: 2px dotted blue;
+    
+    /* padding-top: 35px;
+    padding-right: 15px;
+    padding-bottom: 35px;
+    padding-left: 50px; */
+    padding: 35px 15px 35px 50px;
+}
+.box {
+    width: 1180px;
+    height: 350px;
+    background-color: lightblue;
+    /* margin-right: auto;
+    margin-left: auto; */
+    margin: 0 auto;
+}
+.title-box {
+    text-align: center;
+}
+.lorem {
+    text-align: justify;
+    width: 300px;
+    background-color: yellow;
+}

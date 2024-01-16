@@ -9,6 +9,7 @@
     margin-bottom: 50px;
     margin-left: 35px; */
     margin: 50px 35px;
+    font-family: "ALK Life", sans-serif;
 }
 .hello2 {
     /* border-width: 2px;
@@ -21,6 +22,7 @@
     padding-bottom: 35px;
     padding-left: 50px; */
     padding: 35px 15px 35px 50px;
+    font-family: 'ALK Rex Bold';
 }
 .box {
     width: 1180px;
@@ -37,4 +39,5 @@
     text-align: justify;
     width: 300px;
     background-color: yellow;
+    font-family: 'ALKDots';
 }
